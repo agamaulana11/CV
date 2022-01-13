@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+
+.nasgor{
+    background-color: seagreen;
+}
+
+.ayam{
+    background-color: skyblue;
+}
+
+#heading{
+    color: steelblue;
+}
+
+.circular{
+    border-radius: 80%;
+}
